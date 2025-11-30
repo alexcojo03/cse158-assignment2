@@ -5,7 +5,8 @@ requires-python = "<3.12"
 dependencies = [
     "requests",
     "python-magic",
-    "surprise",
+    "implicit",
+    "pandas",
 ]
 
 [tool.setuptools]
